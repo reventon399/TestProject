@@ -14,8 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    func someFunc() {
-        
+    func setupView() {
+        view.backgroundColor = .cyan
     }
 
 
